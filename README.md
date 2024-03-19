@@ -2,4 +2,4 @@
 
 this project was created from local system
 
-Created by Riya Tyagi.
+Created by Riya Tyagi
